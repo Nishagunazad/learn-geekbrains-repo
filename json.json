@@ -1,0 +1,61 @@
+[
+    {
+        "name": "remark",
+        "age": 20,
+        "quote": "i know",
+        "massive": [
+            {
+                "stat": 1,
+                "value": "ok"
+            }
+        ]
+    },
+
+    {
+        "name": "sumbyt",
+        "age": 25,
+        "quote": "i don't know",
+        "massive": [
+            {
+                "stat": 2,
+                "value": "all"
+            }
+        ]
+    },
+
+    {
+        "name": "boog",
+        "age": 30,
+        "quote": "everybody can",
+        "massive": [
+            {
+                "stat": 0,
+                "value": "some"
+            }
+        ]
+    },
+
+    {
+        "name": "uksus",
+        "age": 41,
+        "quote": "go!",
+        "massive": [
+            {
+                "stat": 1,
+                "value": "trtr"
+            }
+        ]
+    },
+
+    {
+        "name": "ark",
+        "age": 18,
+        "quote": "ooops",
+        "massive": [
+            {
+                "stat": 8,
+                "value": "bad words were made for bad things"
+            }
+        ]
+    }
+]
